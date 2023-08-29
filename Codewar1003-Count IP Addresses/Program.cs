@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Solution;
+namespace Solution1003;
 public class CountIPAddresses
 {
    public static long IpsBetween(string start, string end)

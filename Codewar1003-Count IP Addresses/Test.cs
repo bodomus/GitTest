@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 using System;
-namespace Solution;
+namespace Solution1003;
 public class CountIPAddressesTest
 {
     [Test]
